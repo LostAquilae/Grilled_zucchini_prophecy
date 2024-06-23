@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2520ae39a648b6a418c95402c81cf4eb, type: 3}
+  m_Name: Pepperonis
+  m_EditorClassIdentifier: 
+  name: Pepperoni
+  icon: {fileID: 21300000, guid: d90166859b55f764590bceb548f208be, type: 3}
+  description: Meme nous on sait pas ce que sait, si vous savez, envoyer nous un mail
+    a regnierulysse@hotmail.fr
+  floorHeight: 0.05
+  cost: 4
+  offsetIcon: {x: -0.09, y: 0.18}
+  quality: 0

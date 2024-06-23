@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 7751fff33e51f06409e95ad28ed6b0a9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tete_villageois
+    21300002: bras_villageois_R
+    21300004: bras_villageois_L
+    21300006: jambe_villageois_R
+    21300008: jambe_villageois_L
+    21300010: corps_villageois
+    21300012: main_villageois_R
+    21300014: spritevillageois mieux_13
+    21300016: main_villageois_L
+    21300018: spritevillageois mieux_15
+    21300020: spritevillageois mieux_16
+    21300022: visage_villageois
+    21300024: mollet_villageois_R
+    21300026: mollet_villageois_L
+    21300028: pied_villageois_R
+    21300030: pied_villageois_L
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 470
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tete_villageois
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1678
+        width: 607
+        height: 549
+      alignment: 9
+      pivot: {x: 0.50558144, y: -0.006090619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c36cfed08a4b042a3c40603a0a9208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bras_villageois_R
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1437
+        width: 73
+        height: 202
+      alignment: 9
+      pivot: {x: 0.49999833, y: 0.9367458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260c178349e57b349902299afe574b0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bras_villageois_L
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1435
+        width: 74
+        height: 204
+      alignment: 9
+      pivot: {x: 0.51947516, y: 0.92385024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce80a67b6110b644b53305ed7a39a79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jambe_villageois_R
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1482
+        width: 119
+        height: 129
+      alignment: 9
+      pivot: {x: 0.46216333, y: 0.8374128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeb90711a81005498c2ee4f46f020e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jambe_villageois_L
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1484
+        width: 118
+        height: 132
+      alignment: 9
+      pivot: {x: 0.4618427, y: 0.8297443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3926cac936bca2547ac88a890f402e9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corps_villageois
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1196
+        width: 317
+        height: 393
+      alignment: 9
+      pivot: {x: 0.49257103, y: 0.5659133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a733569af2de22e44a181ce10164b06b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_villageois_R
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1249
+        width: 88
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5327523, y: 0.9555173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac0af5e746c69c468331eca8113c4ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritevillageois mieux_13
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1281
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ffb7e96691b434f8aa33789f12ea34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_villageois_L
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1254
+        width: 91
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5475082, y: 0.97222245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3281842a086fde43ad98810d4f58fc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visage_villageois
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1751
+        width: 311
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee37bf4851af33478a395fb2b764b56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pied_villageois_R
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1237
+        width: 176
+        height: 221
+      alignment: 9
+      pivot: {x: 0.3635545, y: 0.79882205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37abe4579f1d42478be62eadcf6879a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pied_villageois_L
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1236
+        width: 174
+        height: 219
+      alignment: 9
+      pivot: {x: 0.36742952, y: 0.80094177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379c3b32a86ad774b92071ab55d10d22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7b7d28f80f5a61445afba1d6f447cfd0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
